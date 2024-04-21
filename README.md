@@ -1,3 +1,3 @@
-# man-do.blog.github.io
+# man-do's collection of essays
 
-[First post](21042024.md)
+- [Hello World- 21/04/2024 ](21042024.md)
